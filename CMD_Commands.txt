@@ -1,0 +1,17 @@
+- Check all of the gates and vhdl design one by one using 
+
+PS C:\> ghdl -a andgate.vhd
+PS C:\> ghdl -a orgate.vhd
+PS C:\> ghdl -a notgate.vhd
+PS C:\> ghdl -a xorgate.vhd
+PS C:\> ghdl -a design_vhdl.vhd
+PS C:\> ghdl -a design_vhdl_tb.vhd
+PS C:\> ghdl -e design_vhdl_tb
+PS C:\> ghdl -r design_vhdl_tb
+PS C:\> ghdl -r design_vhdl_tb --vcd=design_vhdl.vcd
+PS C:\> gtkwave design_vhdl.vcd
+
+GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+
+[0] start time.
+[4000000] end time.

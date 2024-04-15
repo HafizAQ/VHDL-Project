@@ -45,8 +45,12 @@ This VHDL project is the inspiration from Credit: https://www.youtube.com/watch?
                                     0	1	1	1	0	0	0	1
                                     1	1	1	1	1	0	1	0
 
-
 (((A and B) or (not C)) xor D)
+
+
+3) Draw IC using IEC 60617-12 Norm. 
+
+
 
 
 

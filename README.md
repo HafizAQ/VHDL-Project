@@ -1,7 +1,7 @@
 # VHDL-Project
 
 This VHDL project is the inspiration from Credit: https://www.youtube.com/watch?v=gc2q3Id4_mc
-
+-> On different design/ circuit 
 
 
 #Practical Step
@@ -66,6 +66,7 @@ File => CMD_Commands.txt
 
 8) Results
 
+![image](https://github.com/HafizAQ/VHDL-Project/assets/49461826/e8417654-90f7-4bbf-84d1-7ad32b536f79)
 
 
 

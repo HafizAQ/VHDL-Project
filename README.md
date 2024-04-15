@@ -50,7 +50,10 @@ This VHDL project is the inspiration from Credit: https://www.youtube.com/watch?
 
 3) Draw IC using IEC 60617-12 Norm. 
 
+![IEC-Norm-VhDL drawio](https://github.com/HafizAQ/VHDL-Project/assets/49461826/b6136c48-1622-44b7-88e3-fe75e240ebe3)
 
+
+4) 
 
 
 

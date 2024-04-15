@@ -53,7 +53,7 @@ This VHDL project is the inspiration from Credit: https://www.youtube.com/watch?
 ![IEC-Norm-VhDL drawio](https://github.com/HafizAQ/VHDL-Project/assets/49461826/b6136c48-1622-44b7-88e3-fe75e240ebe3)
 
 
-4) 
+4) Impelementation of VHDL code 
 
 
 

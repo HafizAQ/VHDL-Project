@@ -16,4 +16,43 @@ This VHDL project is the inspiration from Credit: https://www.youtube.com/watch?
 
 5) Test bench for design (DUT)
 
-6) Generate wave form from DUT and perform analysis using GHDL (Open Source Simulator) & GTKWave (for waveform) 
+6) Generate wave form from DUT and perform analysis using GHDL (Open Source Simulator) & GTKWave (for waveform)
+
+---------------------------------------------------------------------------------------------------------
+1) Propositional Formula: 
+              (((A and B) or (not C)) xor D)
+-> Four variables and 3 logic gate in the given propositional formula 
+-> VHDL is a case insensitive language
+
+2) Truth Table solution along with output/ out variable 
+   
+                        
+               A  B  C  D  A and B	not C	(A and B) or (not C)	out = (A and B) or (not C) xor D
+                                    0	0	0	0	0	1	1	1
+                                    1	0	0	0	0	1	1	1
+                                    0	1	0	0	0	1	1	1
+                                    1	1	0	0	1	1	1	1
+                                    0	0	1	0	0	0	0	0
+                                    1	0	1	0	0	0	0	0
+                                    0	1	1	0	0	0	0	0
+                                    1	1	1	0	1	0	1	1
+                                    0	0	0	1	0	1	1	0
+                                    1	0	0	1	0	1	1	0
+                                    0	1	0	1	0	1	1	0
+                                    1	1	0	1	1	1	1	0
+                                    0	0	1	1	0	0	0	1
+                                    1	0	1	1	0	0	0	1
+                                    0	1	1	1	0	0	0	1
+                                    1	1	1	1	1	0	1	0
+
+
+(((A and B) or (not C)) xor D)
+
+
+
+
+
+
+
+
+

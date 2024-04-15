@@ -53,17 +53,18 @@ This VHDL project is the inspiration from Credit: https://www.youtube.com/watch?
 ![IEC-Norm-VhDL drawio](https://github.com/HafizAQ/VHDL-Project/assets/49461826/b6136c48-1622-44b7-88e3-fe75e240ebe3)
 
 
-4) Impelementation of VHDL code 
-File => deign_vhdl.vhd
+4) Impelementation of VHDL code
+Design File => deign_vhdl.vhd
+connecting components files => andgate.vhd, orgate.vhd, notgate.vhd, xorgate.vhd
 
-5) Testbench VHDL code
+6) Testbench VHDL code
 File => design_vhdl_tb.vhd 
 
-6) Generate Wave form commands 
-File => 
+7) Generate Wave form commands 
+File => CMD_Commands.txt
 **Note: make sure you already have installed: GHDL(open source simulator) & GTKWAVE (for showing wave form results)**
 
-7) Results
+8) Results
 
 
 

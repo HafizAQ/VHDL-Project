@@ -54,10 +54,10 @@ This VHDL project is the inspiration from Credit: https://www.youtube.com/watch?
 
 
 4) Impelementation of VHDL code 
-File => Deign_VHDL.vhd
+File => deign_vhdl.vhd
 
 5) Testbench VHDL code
-File => Design_VHDL_TB.vhd 
+File => design_vhdl_tb.vhd 
 
 6) Generate Wave form commands 
 File => 

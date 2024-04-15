@@ -54,10 +54,16 @@ This VHDL project is the inspiration from Credit: https://www.youtube.com/watch?
 
 
 4) Impelementation of VHDL code 
+File => Deign_VHDL.vhd
 
+5) Testbench VHDL code
+File => Design_VHDL_TB.vhd 
 
+6) Generate Wave form commands 
+File => 
+**Note: make sure you already have installed: GHDL(open source simulator) & GTKWAVE (for showing wave form results)**
 
-
+7) Results
 
 
 
